@@ -1,7 +1,7 @@
-# Hotel Network Project
+# Network-Design-for-Hotel-Management
 
 ## Description
-This project shows how to design and set up a network for Vic Modern Hotel using Cisco Packet Tracer. The network connects three floors and eight departments. Each department uses its own VLAN to keep network traffic separate, secure, and easy to manage. Routers use OSPF to communicate between floors, and DHCP automatically assigns IP addresses to devices.
+This project shows how to design and set up a network for Modern Hotel using Cisco Packet Tracer. The network connects three floors and eight departments. Each department uses its own VLAN to keep network traffic separate, secure, and easy to manage. Routers use OSPF to communicate between floors, and DHCP automatically assigns IP addresses to devices.
 
 ## Network Overview
 * Floors: 3
